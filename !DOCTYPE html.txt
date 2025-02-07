@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NLN LOVELETTS</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #ffe6e6; text-align: center; margin: 0; padding: 0; }
+        header { background-color: #ff4d4d; color: white; padding: 20px; font-size: 24px; }
+        section { padding: 20px; }
+        .btn { background-color: #ff4d4d; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 10px; }
+        .gallery { display: flex; flex-wrap: wrap; justify-content: center; }
+        .gallery img { width: 200px; margin: 10px; border-radius: 10px; }
+    </style>
+</head>
+<body>
+    <header>
+        ❤️ NLN LOVELETTS - Handcrafted with Love! ❤️
+    </header>
+    <section>
+        <h2>Beautiful Love Letters & Cards</h2>
+        <p>Express your feelings in the most romantic way!</p>
+        <a href="cards.html" class="btn">View Card Options</a>
+        <a href="https://wa.me/YOUR_NUMBER" class="btn">WhatsApp Us</a>
+    </section>
+</body>
+</html>

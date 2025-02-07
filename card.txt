@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Cards</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #fff0f0; text-align: center; margin: 0; padding: 0; }
+        header { background-color: #ff4d4d; color: white; padding: 20px; font-size: 24px; }
+        .gallery { display: flex; flex-wrap: wrap; justify-content: center; }
+        .gallery img { width: 200px; margin: 10px; border-radius: 10px; }
+        .btn { background-color: #ff4d4d; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 10px; }
+    </style>
+</head>
+<body>
+    <header>💌 Our Love Cards 💌</header>
+    <section class="gallery">
+        <img src="art.jpg" alt="Card 1">
+        <img src="art2.jpg" alt="Card 2">
+        <img src="art3.jpg" alt="Card 3">
+        <img src="art4.jpg" alt="Card 4">
+    </section>
+    <a href="https://wa.me/6329750" class="btn">Order on WhatsApp</a>
+</body>
+</html>
